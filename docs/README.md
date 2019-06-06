@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Help Center Home
 home: true
 pageClass: front
 actionText: Browse All Help
