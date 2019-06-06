@@ -1,4 +1,5 @@
 ---
+title: Home
 home: true
 pageClass: front
 actionText: Browse All Help
