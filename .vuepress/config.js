@@ -25,7 +25,11 @@ module.exports = {
 
         sidebar: [
             '/docs/*',
-            ]
+            ],
 
+        logo: "/header-logo.png",
+
+        alternateHomeUrl: "http://www.bloomberglaw.com/",
+        
     }
 }
