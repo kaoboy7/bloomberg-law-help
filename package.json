@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "vue-masonry-css": "^1.0.3",
-    "vuepress": "^0.14.9"
+    "vuepress": "^0.14.11"
   },
   "dependencies": {
     "bnacomponents": "^1.0.3",
@@ -21,7 +21,7 @@
     "cpy-cli": "^2.0.0",
     "editorcomponents": "^1.0.2",
     "eslint": "^5.14.1",
-    "npm": "^6.8.0",
-    "vuepress-theme-bna": "^1.0.8"
+    "npm": "^6.9.0",
+    "vuepress-theme-bna": "^1.0.9"
   }
 }
