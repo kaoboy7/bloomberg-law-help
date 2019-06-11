@@ -21,3 +21,6 @@ Knowledgeable and experienced legal professionals including attorneys and law li
 |[Law School](/docs/blh-110-law-school.html)|[Bloomberg Law: Tax](https://bltx-help.bloombergtax.com/)|[What resources are available for law students?](/docs/blh-110-law-school.html#law-student-resources)|
 |[Training Videos](/docs/blh-120-videos.html)| | |
 
+[Click here to access Bloomberg Law's Training Videos](/docs/blh-120-videos.html)
+
+[![home](/images/blaw-help-home.jpg "home")](/docs/blh-120-videos.html)
