@@ -12,7 +12,6 @@
     "build-client-js": "browserify cms_client.js --standalone editor_components > .vuepress/dist/admin/editor_components.js"
   },
   "devDependencies": {
-    "vue-masonry-css": "^1.0.3",
     "vuepress": "^0.14.11"
   },
   "dependencies": {
@@ -22,6 +21,6 @@
     "editorcomponents": "^1.0.2",
     "eslint": "^5.14.1",
     "npm": "^6.9.0",
-    "vuepress-theme-bna": "^1.0.9"
+    "vuepress-theme-bna": "^1.1.0"
   }
 }
