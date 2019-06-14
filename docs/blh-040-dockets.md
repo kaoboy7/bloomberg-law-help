@@ -70,7 +70,7 @@ Below are three examples of how Specialized Docket Search can help you pinpoint 
 2. The **Dockets Search** form displays.
 3. In the **COURTS** field, click **Browse Full List**, go to **Districts of Florida**, and select **Southern District of Florida**. 
 4. Select **Chapter 11**, and set the **Assets and Liabilities** scroll bar to reflect the monetary value of the case.
-5. Click the **Create Search Alert** link. See [Saved Searches and Alerts](https://www.bna.com/saved-search-alerts/) for additional information.
+5. Click the **Create Search Alert** link. See [Saved Searches and Alerts](/docs/blh-010-search-and-browse.html#saved-searches-alerts) for additional information.
 
 * **Search for all civil U.S. District Court and Appellate Courts patent, copyright or trademark dockets involving IBM and its subsidiaries**
 
@@ -143,6 +143,7 @@ while an alert has a frequency that is set to, **As Available**,
    **Automatically Updated** under the **Docket Currency** section on
    the right of the docket. You may want to track these dockets to
    monitor updates as they occur.
+   ![updatedocket3](/images/dock_updatedocket3.PNG "updatedocket3")
 
 ## Track a Docket
 
@@ -158,8 +159,7 @@ Docket**.
 
 ![TrackDocketlink](/images/dock_Track_Docket_link.jpg "TrackDocketlink")
 
-The Select a desired **Frequency** from the drop-down options.
-
+The Select a desired **Frequency** from the drop-down options.  
 If you are interested in tracking the docket several times during the
 day, select **Custom**. You can track a federal court docket up to 5
 times a day every day of the week. Click
@@ -173,8 +173,10 @@ created.
 ![Confirmationmessage](/images/dock_Confirmation_message.jpg "Confirmationmessage")
 
 Updates announcing changes to the docket are sent to your email address,
-see [View Updates to Tracked
-Dockets](https://www.bna.com/view-updates-tracked-dockets/ "View Updates to Tracked Dockets").   
+see [View Updates to Tracked Dockets](https://www.bna.com/view-updates-tracked-dockets/ "View Updates to Tracked Dockets").   
+
+# Related Topics
+[View Updates to Tracked Dockets](/docs/blh-040-dockets.html#view-updates-to-tracked-dockets)
 
 ## View Updates to Tracked Dockets
 
@@ -215,6 +217,9 @@ The Docket opens with the changes highlighted in
 red.
 
 ![Trackeddoc](/images/dock_Tracked_doc.jpg "Trackeddoc")  
+
+# Related Topics
+[Save a Search or Create an Alert](/docs/blh-040-dockets.html#save-a-search-or-create-an-alert)
 
 ## Breaking Complaints Overview
 
@@ -284,6 +289,10 @@ channels.
 
 ![BreakingComplaintsemail](/images/dock_Breaking_Complaints_email.jpg "BreakingComplaintsemail")
 
+# Related Topics
+
+[Save a Search or Create an Alert](/docs/blh-040-dockets.html#save-a-search-or-create-an-alert)
+
 ## Docket Coverage - U.S. and International
 
 To examine the scope of the dockets available on _Bloomberg Law_ use the
@@ -302,7 +311,7 @@ name, coverage type, and dates of coverage.
 4. To view the costs to obtain the dockets, click the **View Price
    List** link.
 
- ![Coverage1A](/images/dock_Coverage_1A.jpg "Coverage1A")
+![Coverage1A](/images/dock_Coverage_1A.jpg "Coverage1A")
 
 ![Coverage2](/images/dock_Coverage_2.jpg "Coverage2")
 

@@ -208,10 +208,8 @@ The Watchlist is organized alphabetically, and the Company displays on the Watch
 
 ![Watchlist 4](/images/watchlist_4.jpg)
 
-### Related Topics
-
-[Look up a Company Profile ](/docs/blh-070-business-intelligence-center.html#look-up-a-company-profile)
-
+# Related Topics
+[Look up a Company Profile ](/docs/blh-070-business-intelligence-center.html#look-up-a-company-profile)  
 [Remove a Company from the Watchlist ](/docs/blh-070-business-intelligence-center.html#remove-a-company-from-the-watchlist)
 
 ## Remove a Company from the Watchlist
@@ -236,10 +234,8 @@ Alternatively, again on the Company Watchlist page, select **Remove Companies** 
 
 ![Watchlist 2](/images/watchlist_2.jpg)
 
-### Related Topics
-
-[Look up a Company Profile ](/docs/blh-070-business-intelligence-center.html#look-up-a-company-profile)
-
+# Related Topics
+[Look up a Company Profile ](/docs/blh-070-business-intelligence-center.html#look-up-a-company-profile)  
 [Add a Company to the Watchlist ](/docs/blh-070-business-intelligence-center.html#add-a-company-to-the-watchlist)
 
 ## Report Writer Overview
