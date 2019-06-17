@@ -4,41 +4,41 @@ title: Training Videos
 # Videos
 
 ## Bloomberg Law Overview
-Content and tools, homepage, site navigation, GO Bar search.
+one
 <vimeo source="329919395"></vimeo>
 
 ## Dockets Part 1
-How to track developments affecting cases, businesses, adversaries, more.
+two
 <vimeo source="328220623"></vimeo>
 
 ## Dockets Part 2
-How to access, filter, search, set alerts, and find specific filings.
+three
 <vimeo source="328227590"></vimeo>
 
 ## News
-How to access and search enhanced News, set alerts, customize news feeds.
+four
 <vimeo source="328226197"></vimeo>
 
 ## Points of Law
-How to access and use Points of Law as part of enhanced case law research.
+five
 <vimeo source="328224433"></vimeo>
 
 ## Practical Guidance
-How to access and use. Overview of practice area coverage.
+six
 <vimeo source="328223619"></vimeo>
 
 ## Practice Center Overview
-Organization of and access to content and tools across 16 practice areas.
+seven
 <vimeo source="328228609"></vimeo>
 
 ## Practitioner Tools
-Covering the value of each tool, how to access and search.
+eight
 <vimeo source="328222506"></vimeo>
 
 ## Precedence Search
-Access, search, and use of 1.2 million transactional documents.
+nine
 <vimeo source="328221668"></vimeo>
 
 ## Workflow Tools
-How to use Downloads, Alerts, Research Trail, and Workspaces.
+ten
 <vimeo source="328225332"></vimeo>
