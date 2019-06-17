@@ -56,3 +56,9 @@ Covering the value of each tool, how to access and search.
 Access, search and use of the 1.2 million transactional documents.
 
 <vimeo source="328221668"></vimeo>
+
+## Workflow Tools
+
+How to use downloads, alerts, research trail and workspaces.
+
+<vimeo source="328225332"></vimeo>
