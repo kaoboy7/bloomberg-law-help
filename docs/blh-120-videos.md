@@ -38,3 +38,9 @@ How to access and use Points of Law as part of enhanced case law research.
 How to access and use.  Overview of practice area coverage.
 
 <vimeo source="328223619"></vimeo>
+
+## Practice Center Overview
+
+Organization of and access to content and tools across 16 practice areas.
+
+<vimeo source="328223619"></vimeo>
