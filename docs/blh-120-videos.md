@@ -50,3 +50,9 @@ Organization of and access to content and tools across 16 practice areas.
 Covering the value of each tool, how to access and search.
 
 <vimeo source="328222506"></vimeo>
+
+## Precedence Search
+
+Access, search and use of the 1.2 million transactional documents.
+
+<vimeo source="328221668"></vimeo>
