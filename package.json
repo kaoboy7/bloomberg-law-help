@@ -12,15 +12,14 @@
     "build-client-js": "browserify cms_client.js --standalone editor_components > .vuepress/dist/admin/editor_components.js"
   },
   "devDependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^0.14.9"
   },
   "dependencies": {
-    "bnacomponents": "^1.0.3",
+    "bnacomponents": "1.0.4",
     "browserify": "^16.2.3",
     "cpy-cli": "^2.0.0",
-    "editorcomponents": "^1.0.2",
+    "editorcomponents": "^1.0.3",
     "eslint": "^5.14.1",
-    "npm": "^6.9.0",
-    "vuepress-theme-bna": "^1.1.4"
+    "vuepress-theme-bna": "1.2.4"
   }
 }

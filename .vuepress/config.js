@@ -15,18 +15,21 @@ module.exports = {
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
         ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
         ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-        ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+        ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+        ['script', {src: 'https://assets.adobedtm.com/launch-EN164714b0147e4e5b8dce3e9da522ec62.min.js', async: 'async'}]
     ],
     serviceWorker: true,
     theme: 'bna',
     themeConfig: {
         docsDir: 'docs',
-
-        sidebar: [ '/docs/*',],
-
+        sidebar: ['/docs/*',],
         logo: "/header-logo.png",
-
         alternateHomeUrl: "http://www.bloomberglaw.com/",
-        
+        demoUrl: "https://pro.bloomberglaw.com/request-a-demo/?trackingcode=BLAW193500&utm_source=producthelp&utm_medium=referral",
+        demoUrlText: "Request Demo",
+        demoUrlIcon: "/demo-icon.png",
+        marketingUrl: "https://pro.bloomberglaw.com/",
+        marketingUrlText: "pro.bloomberglaw.com",
+        nav: [ { text: 'Live Chat', link: 'https://www.bloomberglaw.com/help_chat' }, ]
     }
 }

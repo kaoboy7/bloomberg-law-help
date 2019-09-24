@@ -1,6 +1,235 @@
 ---
 title: Whats's New
 ---
+### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
+
+## September 2019
+
+### PRACTICAL GUIDANCE
+
+**Litigation**
+
+New Practical Guidance -- [Threshold Issues & Defenses](https://www.bloomberglaw.com/product/BLPG/page/blic_pg_threshold_issues) 
+-- addresses critical issues that should be considered during the
+initial stages of litigation, including topics such as justiciability
+(standing, mootness, ripeness, political question), preemption, choice
+of law, preclusion (law of the case, res judicata, collateral estoppel),
+sovereign immunity, abstention, and arbitration. Threshold Issues &
+Defenses is accessible on the [Litigation Resources page](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_pg_library) 
+and the [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home).
+
+**Environmental & Safety**
+
+Five new Practical Guidance suites on [Air Quality](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_air_quality), 
+[Water Quality & Wetlands](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_wq_wetlands), 
+[Chemical Regulation & Right-to-Know](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_chemicals_mgmt), 
+[Waste Management](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_waste_mgmt), 
+and [Environmental Disclosures, Transactions & Brownfields](https://www.bloomberglaw.com/product/BLPG/page/es_pg_disclosures_brownfields) 
+have been added to the [Environmental & Safety Practice Center](https://www.bloomberglaw.com/product/es/page/es_home) 
+and the [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home). 
+Each Practical Guidance suite is organized by relevant subtopics and
+includes helpful overviews, forms, glossaries, timelines, checklists,
+professional perspectives, and state Chart Builders.
+
+**Labor & Employment**
+
+New, robust Practical Guidance pages are replacing the older
+step-by-step approach, presenting materials in a user-friendly format
+that includes both Practical Guidance documents and state Chart
+Builders. This enhancement streamlines the presentation of Practical
+Guidance by consolidating related Practical Guidance tools, forms, and
+checklists into topic pages with relevant subtopics. For instance, the
+[Disability Discrimination & Accommodation](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_disability) 
+topic page replaces four step-by-step pages -- Assess Undue Hardships
+under the ADA; Comply with ADA Reasonable Accommodation Rules; Examine
+if a Worker Poses a Direct Threat (ADA); and Understand the Interplay
+between FMLA & ADA.
+
+Two such enhancements of Labor & Employment Practical Guidance have been
+rolled out to date with more planned in the coming weeks. See the
+[Labor & Employment Practical Guidance Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_guidance) 
+as well as the [Practical Guidance home](https://www.bloomberglaw.com/product/blpg/page/pg_home)page.
+
+### IN FOCUS
+
+**In Focus: Deal Points**
+
+New 2019 M&A Deal Terms Studies have been added to [In Focus: Deal Points](https://www.bloomberglaw.com/product/securities/se_home/page/infocus_dealpoints).
+The documents have been created through an ongoing partnership with SRS
+Acquiom, the shareholder representative service that has one of the
+largest collections of private deal documents in the U.S. The new M&A
+Deal Terms Studies include:  
+[Purchase Price (2019)](https://www.bloomberglaw.com/product/corporate/document/XBF0VAK0000000?documentName=ORCA126978.PDF&fmt=pdf)  
+[Post-Closing Adjustments (2019)](https://www.bloomberglaw.com/product/corporate/document/X3B312Q4000000?documentName=ORCA126986.PDF&fmt=pdf)  
+[Earnouts (2019)](https://www.bloomberglaw.com/product/corporate/document/X69TJVC0000000?documentName=ORCA126989.PDF&fmt=pdf)  
+[Pervasive Qualifiers (2019)](https://www.bloomberglaw.com/product/corporate/document/X3EH4AG4000000?documentName=ORCA126990.PDF&fmt=pdf)  
+[Representations and Warranties Covenants (2019)](https://www.bloomberglaw.com/product/corporate/document/X3FGIUFK000000?documentName=ORCA126991.PDF&fmt=pdf)  
+[Closing Conditions (2019)](https://www.bloomberglaw.com/product/corporate/document/X5VV12P0000000?documentName=ORCA126992.PDF&fmt=pdf)  
+[Indemnification (2019)](https://www.bloomberglaw.com/product/corporate/document/X8MAB9J8000000?documentName=ORCA126993.PDF&fmt=pdf)  
+[Indemnification-Survival (2019)](https://www.bloomberglaw.com/product/corporate/document/XEJBG9ES000000?documentName=ORCA126994.PDF&fmt=pdf)  
+[Indemnification-Baskets & Caps (2019)](https://www.bloomberglaw.com/product/corporate/document/XCPH120000000?documentName=ORCA126995.PDF&fmt=pdf)  
+[Dispute Resolution (2019)](https://www.bloomberglaw.com/product/corporate/document/XEORBTKC000000?documentName=ORCA126996.PDF&fmt=pdf)  
+[Correlations (2019)](https://www.bloomberglaw.com/product/corporate/document/XCH95CIG000000?documentName=ORCA126997.PDF&fmt=pdf)  
+
+In Focus: Deal Points is available on the [Transactional Intelligence Center](https://www.bloomberglaw.com/product/btic/page/txl_home),
+the [Antitrust Practice Center](https://www.bloomberglaw.com/product/antitrust/page/at_home) and
+the [In Focus homepage](https://www.bloomberglaw.com/page/infocus_home).
+
+### PRACTICE CENTERS
+
+Labor & Employment
+
+A new International white paper -- [Global Efforts to Combat Human Rights Abuses in Supply Chains](https://www.bloomberglaw.com/product/labor/le_international/document/25373448744)
+-- discusses actions taken by the U.S. and other countries, as well as
+by nongovernmental organizations, to combat human rights abuses and the
+implications for businesses as they adapt and comply. Authored by
+[Robert P. Lewis](https://www.bakermckenzie.com/en/people/l/lewis-robert-p),
+[Kevin Coon](https://www.bakermckenzie.com/en/people/c/coon-kevin-b),
+and [Chris Burkett](https://www.bakermckenzie.com/en/people/b/burkett-christopher),
+all of [Baker McKenzie](https://www.bakermckenzie.com/en),
+the white paper is available on the
+[International](https://www.bloomberglaw.com/product/labor/page/le_international)
+page on the [Labor & Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home).
+
+
+## August 2019
+
+### PRACTICAL GUIDANCE
+ 
+**Communications Law**
+
+A new collection of Practical Guidance, [Communications Law](https://www.bloomberglaw.com/product/BLTT/page/pg_communications_law), including
+overviews and checklists provides guidance on assignments and transfers of wireless services and on complying with FCC regulations governing the treatment of Customer Proprietary Network Information (CPNI). The new collection can be found on the
+[Tech & Telecom](https://www.bloomberglaw.com/product/tech/page/tt_home) PracticeCenter’s homepage, the 
+[Communications Law](https://www.bloomberglaw.com/product/tech/tt_home/page/communications_practice) practice page,
+and on the [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home) homepage.
+
+**Privacy & Data Security**  
+
+A new comparison tool, [LGPD vs. GDPR](https://www.bloomberglaw.com/product/privacy/document/X7QEVKSK000000), comparing aspects
+of Brazil’s new data protection law to the GDPR has been added to the Privacy
+& Data Security Practice Center. The comparison chart is helpful for
+practitioners seeking guidance related to processing personal data in Brazil,
+EU countries, and other GDPR-covered jurisdictions. It is available on the
+[Privacy & Data Security: International Resources](https://www.bloomberglaw.com/product/privacy/page/secondary_page_international_privacy)
+page under International Practical Guidance. 
+
+**Patents**
+
+A new collection of Practical Guidance, Patentability Principles, has been added to the 
+[Practical Guidance: Patent Filing Considerations](https://www.bloomberglaw.com/product/ip/pts_home/page/pts_pg_patent_prefiling_considerations) page on
+the Patents & Trade Secrets Practice Center. This collection includes overviews as well as a flowchart on 
+[2019 Revised Patent Subject-Matter Eligibility Guidance](https://www.bloomberglaw.com/product/ip/pts_home/document/X8E9MBCS000000).  
+
+ 
+### IN FOCUS
+ 
+**In Focus: Cannabis**
+
+Major enhancements have been made to the 
+[In Focus: Cannabis](https://www.bloomberglaw.com/product/health/page/infocus_medical_marijuana) page, including
+the addition of law firm client alerts, Chart Builders featuring Labor &
+Employment material, transactional resources, cannabis-related patents, and tax
+developments. News searches have been included to show more legal cannabis
+news, current Insights articles, and U.S. & Canada cannabis company
+profiles. In Focus: Cannabis is available on the 
+[Health Practice Center](https://www.bloomberglaw.com/product/health/page/health_home), the 
+[Transactional Intelligence Center](https://www.bloomberglaw.com/product/btic/page/txl_home),
+and the [In Focus](https://www.bloomberglaw.com/page/infocus_home) homepage.
+
+
+### CHART BUILDERS
+
+**Banking & Finance**
+
+A new Chart Builder, [General Lending: Licensing Requirements](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/10036),
+summarizes the license application process in all 50 states and the District of
+Columbia for generally-applicable lending licenses. Existing Banking Chart
+Builders cover the licensing requirements for specific types of loans such as
+payday loans, title loans, and high-interest small dollar loans. The new
+General Lending Chart Builder covers loans that do not fit into those narrow
+categories. It will provide useful information for any non-bank lender seeking
+to comply with the patchwork of state licensing requirements that apply to the
+lending industry. It is available on the 
+[Banking & Finance Practice Center](https://www.bloomberglaw.com/product/bankfinance/bf_states/page/bf_statelaws_charts) and the 
+[Chart Builder](https://www.bloomberglaw.com/page/chart_builders_home)s homepage.
+
+### PRACTICE CENTERS
+
+**Labor & Employment**
+
+A new International White Paper, [The Impact of Mass Layoffs on Foreign Nationals](https://www.bloomberglaw.com/product/labor/le_international/document/25321226280), discusses the implications of layoffs on foreign national employees including their
+potential impact on immigration status. The article by attorney Miatrai Brown,
+Ogletree Deakins, is available on the Labor & Employment Practice Center’s 
+[International](https://www.bloomberglaw.com/product/labor/page/le_international) page.
+
+### PORTFOLIOS
+
+Users now have the ability to print any Bloomberg Law 
+[Portfolio](https://www.bloomberglaw.com/nav_content_menu/105.456026)
+in its entirety. Previously, this functionality was available only for Tax
+Portfolios within Tax & Accounting products.
+
+## July 2019
+
+### SEARCH: ENHANCEMENTS TO AUTOCOMPLETE FEATURE
+
+
+Subscribers
+can now find all of our Chart Builders, In Focus Pages, and Practical Guidance
+documents through the autocomplete feature when searching Bloomberg Law. Simply
+type the name of a Chart Builder, In Focus page, or Practical Guidance document
+and relevant options will appear directly under the Go Bar.
+
+The pages and documents added to the autocomplete bar include 45 In Focus pages, 183
+Chart Builders, and 4700+ Practical Guidance documents. Practical Guidance
+documents will be available as autocomplete options in the Transactional and
+Litigation Intelligence Centers, as well as in the full search of the Bloomberg
+Law platform. In Focus pages and Chart Builders will appear as options in all
+Practice Center searches.  
+ 
+
+See our homepages for [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home), [In Focus Resources](https://www.bloomberglaw.com/page/infocus_home), and [Chart Builders](https://www.bloomberglaw.com/page/chart_builders_home). 
+
+
+### IN FOCUS RESOURCES
+
+**In Focus: Telephone Consumer Protection Act** 
+
+The [In Focus: Telephone Consumer Protection Act](https://www.bloomberglaw.com/product/BLTT/page/infocus_telephone_consumer_protection_act)
+provides coverage of news, and legal and legislative developments on the issue
+of unwanted telephone calls, including robocalls. The content includes FCC and
+FTC regulations, orders, proposals, federal caselaw including U.S. Supreme
+Court docket watch, proposed federal legislation, and practitioner insights.
+Planned enhancements include coverage of state caselaw as well as enacted and
+proposed state legislation. It is available on the [In Focus homepage](https://www.bloomberglaw.com/page/infocus_home) as well as the [Tech & Telecom Practice Center](https://www.bloomberglaw.com/product/tech/page/tt_home).
+
+### CHART BUILDERS
+
+**Accountable Care Organizations**
+
+ 
+Federal content has been added to the [Accountable Care Organizations](https://www.bloomberglaw.com/product/health/bbna/chart/43/208) Chart Builder. This new information covers the Medicare Shared Savings Program, which has allowed ACOs
+to bill Medicare for services. New Chart Builder coverage includes both the federal
+statute and the regulations governing the program and it is the last of the
+nine federal additions to the [Health Law Chart Builders](https://www.bloomberglaw.com/product/health/health_home/page/health_chart_builders). This chart is located on the [Health Practice Center](https://www.bloomberglaw.com/product/health/page/health_home) and on the [Chart Builders](https://www.bloomberglaw.com/page/chart_builders_home) homepage.
+
+
+### PRACTICE CENTERS
+
+**Labor & Employment**
+
+A new International White Paper – [Gender Pay Gap Reporting Obligations](https://www.bloomberglaw.com/product/labor/document/25306548776)
+– has been added to the [International](https://www.bloomberglaw.com/product/labor/page/le_international) page on the [Labor & Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home).
+The gender pay gap is an issue common to workplaces across the world, but
+methods of tackling it vary widely. Emanuela Nespoli, Partner, Toffoletta De
+Luca Tamajo e Soci, reports the result of a multijurisdictional survey on
+gender pay gap reporting obligations conducted by Ius Laboris, the largest
+international alliance of legal specialists in labor, employment, and pension
+law.
+
+ 
+
 ## June 2019
 
 ### PRACTICAL GUIDANCE
